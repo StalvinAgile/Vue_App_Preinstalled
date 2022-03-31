@@ -26,7 +26,7 @@ npm run build
 
 See [Configuration Reference](https://cli.vuejs.org/config/).
 
-# references(not necessary only if needed)
+### References(not necessary only if needed)
 
 font awesome -> https://medium.com/front-end-weekly/how-to-use-fon-awesome-5-on-vuejs-project-ff0f28310821
 
