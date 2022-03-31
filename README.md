@@ -28,6 +28,8 @@ See [Configuration Reference](https://cli.vuejs.org/config/).
 
 ### References(not necessary only if needed)
 
+```
+
 font awesome -> https://medium.com/front-end-weekly/how-to-use-fon-awesome-5-on-vuejs-project-ff0f28310821
 
 axios -> https://www.npmjs.com/package/vue-axios
@@ -35,3 +37,5 @@ axios -> https://www.npmjs.com/package/vue-axios
 bootstrap -> https://bootstrap-vue.org/docs#:~:text=common%20HTML%20elements.-,Using%20module%20bundlers,-Most%20likely%20you
 
 vuetify -> https://vuetifyjs.com/en/getting-started/installation/#vue-cli-install
+
+```
