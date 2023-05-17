@@ -49,5 +49,5 @@ https://bootstrap-vue.org/docs#:~:text=common%20HTML%20elements.-,Using%20module
 ### Vuetify
 
 ```
-https://vuetifyjs.com/en/getting-started/installation/#vue-cli-install
+https://v2.vuetifyjs.com/en/getting-started/installation/#webpack-install:~:text=To%20install%20Vuetify%20into%20a%20Webpack%20project%20you%20need%20to%20add%20a%20few%20dependencies%3A 
 ```
